@@ -1,4 +1,4 @@
-# cool-source
+# WebStatic
 
 ## 静态文件仓库介绍
 
